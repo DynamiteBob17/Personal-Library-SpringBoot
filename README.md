@@ -1,5 +1,5 @@
 # About
-- Spring Boot version of [this project](https://github.com/DynamiteBob17/Pinterest-Clone-Server)
+- Spring Boot version of [this project](https://github.com/DynamiteBob17/Pinterest-Clone-Server), but has more authentication options and also admin and moderator roles besides the user role
 
 ## How to run
 - create a **application.yml** file according to the **exampleApplication.yml** file in *src/main/resources*
