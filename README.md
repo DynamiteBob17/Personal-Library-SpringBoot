@@ -1,5 +1,5 @@
 # About
-- Spring Boot version of [this project](https://github.com/DynamiteBob17/Personal-Library)
+- Spring Boot version of [this project](https://github.com/DynamiteBob17/Pinterest-Clone-Server)
 
 ## How to run
 - create a **application.yml** file according to the **exampleApplication.yml** file in *src/main/resources*
