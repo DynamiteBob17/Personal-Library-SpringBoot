@@ -1,5 +1,7 @@
 # About
-- Spring Boot version of [this project](https://github.com/DynamiteBob17/Personal-Library)
+- can save books by names and add personal comments to them as well as delete the books
+- content served with thymeleaf
+- [live demo](https://clipchamp.com/watch/1g77NtjApj2)
 
 ## How to run
 - edit the **application.properties** file in *src/main/resources*
